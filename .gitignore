@@ -4,3 +4,7 @@
 .Ruserdata
 *.bam
 *.bed
+
+
+*.fq
+*.SAM
